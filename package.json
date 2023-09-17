@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://github.com/jwebdew/1-study.git",
+  "homepage": "http://jwebdew.github.io/1-study",
   "eslintConfig": {
     "extends": [
       "react-app",
